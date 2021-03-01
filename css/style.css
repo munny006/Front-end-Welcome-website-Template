@@ -1,0 +1,37 @@
+.nav-item{text-transform: uppercase;
+padding-left: 1em;}
+body{background: url('../img/o.jpg'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 870px!important;
+	position: relative;}
+	.m{color: blue!important;}
+	.k{font-size: 70px!important;}
+	body{background-color: #fff!important;
+		min-height: 670px;}
+	
+	ul li{display: inline;
+		padding-left: 2rem!important;
+
+	}
+	ul li a{text-decoration: none!important;}
+	ul{	background-color:#8080801c !important;
+		height:29px!important;}
+		#card{background-color: #fff!important;
+		min-height: 670px;}
+		.s{height: 450px!important;
+			width:500px!important; }
+			#blog{background-color: #fff!important;
+		min-height: 670px;}
+		.i{height: 300px!important;}
+		#Contact{background-color: #fff!important;
+		min-height: 670px;}
+		
+		@media(max-width: 992px)
+		{
+			.mu{
+				height: 300px!important;
+				width: 390px!important;
+			}
+		}
